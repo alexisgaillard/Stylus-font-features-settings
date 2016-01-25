@@ -1,5 +1,5 @@
 # Stylus position mixin
-A Stylus mixin to manage the font-features-settings property.
+A Stylus mixin to manage the font-features-settings properties.
 
 ### Dependencies
   * [stylus](https://github.com/LearnBoost/stylus)
