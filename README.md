@@ -1,4 +1,4 @@
-# Stylus position mixin
+# Stylus font features settings
 A Stylus mixin to manage the font-features-settings properties.
 
 ### Dependencies
