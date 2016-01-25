@@ -48,7 +48,7 @@ Complete list of arguments:
 - Alternative Stylistic Set: set-1 set-2 set-3 set-4 set-5 set-6 set-7 set-8 set-9
 
 Support:
- IE 9+, Edge 11+, Firefox 41+, Chrom 44+, Safari 9+, Opera 33+, IOS 9.2+, Android 4.3+, Chrome for Android 
+ IE 9+, Edge 11+, Firefox 41+, Chrome 44+, Safari 9+, Opera 33+, IOS 9.2+, Android 4.3+, Chrome for Android 
 ## Credits
 
 Developed by [Alexis Gaillard](https://alexisgaillard.com/). Licensed under [MIT](http://opensource.org/licenses/mit-license.php).
