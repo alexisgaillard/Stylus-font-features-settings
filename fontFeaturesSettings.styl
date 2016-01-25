@@ -1,4 +1,4 @@
-/*Ligature: common-ligature dicretionary-ligature historical-ligature contextual-ligature
+/*Ligature: common-ligature discretionary-ligature historical-ligature contextual-ligature
 * Letter Case: small-caps small-caps-from-caps
 * Number Case: lining-number-case or olstyle-number-case
 * Number Spacing: proportional-number-spacing or tabular-number-spacing
@@ -12,7 +12,7 @@ fontFeatureSetting(argument)
   features = ()
   if common-ligature in argument
     push(features, '"liga" 1')
-  if dicretionary-ligature in argument
+  if discretionary-ligature in argument
     push(features, '"dlig" 1')
   if historical-ligature in argument
     push(features, '"hlig" 1')

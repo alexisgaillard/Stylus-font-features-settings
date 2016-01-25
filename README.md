@@ -6,10 +6,10 @@ A Stylus mixin to manage the font-features-settings property.
 
 Example:
 ```stylus
-@import "fontFeatureSetting"
+@import "fontFeatureSettings"
 
 body
-  fontFeatureSetting(common-ligature dicretionary-ligature historical-ligature proportional-number-spacing)
+  fontFeatureSetting(common-ligature discretionary-ligature historical-ligature proportional-number-spacing)
 
 .Div__one
   fontFeatureSetting(superiors-positioning slashed-zero-extra)
@@ -37,7 +37,7 @@ body {
 }
 ```
 Complete list of arguments:
-- Ligature: common-ligature dicretionary-ligature historical-ligature contextual-ligature
+- Ligature: common-ligature discretionary-ligature historical-ligature contextual-ligature
 - Letter Case: small-caps small-caps-from-caps
 - Number Case: lining-number-case or olstyle-number-case
 - Number Spacing: proportional-number-spacing or tabular-number-spacing
@@ -46,6 +46,7 @@ Complete list of arguments:
 - Numeric Extras: slashed-zero-extra alternate-annotation-extra
 - Character Alternatives: swash-alternative contextual-alternative historical-alternative stylistic-alternative
 - Alternative Stylistic Set: set-1 set-2 set-3 set-4 set-5 set-6 set-7 set-8 set-9
+
 ## Credits
 
 Developed by [Alexis Gaillard](https://alexisgaillard.com/). Licensed under [MIT](http://opensource.org/licenses/mit-license.php).
